@@ -41,10 +41,10 @@
 
 ## 🔥 Featured Projects
 
-### 💼 Employee Payroll System (PL/SQL)
+### 💼 Course Enrollment System (PL/SQL)
 - Built using advanced PL/SQL concepts (procedures, triggers, cursors)
-- Handles employee salary, attendance, and reporting
+- Handles enrollments, waitlists, structured data and reporting
 
-### 📊 React DataGrid Project
-- Built using React + TypeScript + MUI DataGrid
-- Includes advanced filtering and search features
+### 📊 React Billing Management System
+- Built using React + TypeScript + Spring Boot + Bootstrap
+- Includes advanced filtering and search features, and crud operations for users, items, and group of items.
